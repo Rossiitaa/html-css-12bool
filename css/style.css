@@ -1,0 +1,17 @@
+[class*="col-"], .col{
+    background-color: #006cfa;
+    color: white;
+    border: 1px solid white;
+}
+
+.bg-active {
+    background-color: #00e165;
+} 
+
+section {
+    margin-bottom: 15px;
+}
+
+.height-void {
+    height: 42px;
+}
